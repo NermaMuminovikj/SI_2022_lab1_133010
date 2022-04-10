@@ -1,0 +1,59 @@
+Nerma Muminovikj 133010 LAB 1.
+
+1.Imav profil na github
+2.Go promeniv imeto na grankata od main vo master
+3.Kreirav repozitorium SI_2022_lab1_133010
+4. Go klonirav so komandata git clone https://github.com/NermaMuminovikj/SI_2022_lab1_133010
+5.Kreirav tekst datoteka so pomos na komandata nano shopping_list.txt i staviv 5 proizvodi
+git add shopping_list.txt 
+git commit -m  “Add 5 items to the shopping list”
+
+6.Dodadov kolicina 
+git add shopping_list.txt 
+git commit -m  “Add quantities to the items”
+
+7.Gi koristev komandite 
+git branch branch1
+git branch branch2
+
+8.$ git branch
+  branch1
+  branch2
+* master
+
+9. git push origin branch1
+git push origin branch2
+ovie dve komandi gi iskoristiv za sinhronizacija
+
+10. git checkout branch1
+
+11. ja promeniv kolicinata  na 5tata stavka  git add shopping_list.txt 
+git commit -m  “Change quantity of item #5”
+
+12.git checkout master
+
+13. ja promeniv kolicinata  na 2ta stavka  git add shopping_list.txt 
+git commit -m  “Change quantity of item #2”
+
+14. git push origin master 
+git push origin branch1
+git push origin branch2
+
+15.git checkout branch2
+
+16.go promeniv imeto na 4ta stavka  git add shopping_list.txt 
+git commit -m  “Modify item #4”
+
+17. git status
+
+18. dodadov 6ta stavka  git add shopping_list.txt 
+git commit -m  “Modify item #4 and add item #6”
+
+19. zaboraviv :(
+
+20. git chechkout master
+ git merge branch1
+
+21.git add shopping_list.txt
+ git merge branch2
+
