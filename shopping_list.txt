@@ -1,5 +1,5 @@
-leb
-jogurt
-mleko
-eurokrem
-banana
+leb x2
+jogurt x1
+mleko x3
+eurokrem x1
+banana x5
